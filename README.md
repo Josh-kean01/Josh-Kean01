@@ -25,14 +25,18 @@ A passionate Frontend Developer and UI Engineer focused on crafting visually stu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaAdekunle&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" height="180px" style="flex: 1; min-width: 280px; max-width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAdekunle&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180px" style="flex: 1; min-width: 280px; max-width: 48%;" />
-</div>
-
-## 🤝 Connect with Me
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JoshuaAdekunle&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" height="180px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAdekunle&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180px" />
+    </td>
+  </tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leethub&logoColor=white)](https://github.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leethub&logoColor=white)](https://thejosh.vercel.app/)
 
 *“Simplicity is the ultimate sophistication.”*
