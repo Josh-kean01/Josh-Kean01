@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_gil2l3gil2l3gil2.png" alt="Joshua Adekunle Banner" width="100%" />
+  <img src="Josh Banner.jpg" alt="Joshua Adekunle Banner" width="100%" />
 </p>
 
 ### Frontend Developer & UI Engineer
