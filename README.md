@@ -1,10 +1,12 @@
 # Hi there, I'm Joshua Adekunle 👋
 
+<p align="center">
+  <img src="Gemini_Generated_Image_gil2l3gil2l3gil2.png" alt="Joshua Adekunle Banner" width="100%" />
+</p>
+
 ### Frontend Developer & UI Engineer
 
 A passionate Frontend Developer and UI Engineer focused on crafting visually stunning, highly interactive, and pixel-perfect digital experiences. I bridge the gap between robust engineering and elegant design, utilizing modern UI tools and full-stack frameworks to bring creative concepts to life.
-
----
 
 ## 🚀 About Me
 
@@ -12,8 +14,6 @@ A passionate Frontend Developer and UI Engineer focused on crafting visually stu
 - 🎨 **Design Philosophy:** Clean code, modular architectures, and smooth micro-interactions that elevate user engagement.
 - ⚡ **Workflow Efficiency:** Leveraging cutting-edge AI-assisted development tools and modern bundlers to accelerate product deployment from concept to production.
 - ⚙️ **Current Focus:** Deep-diving into advanced design systems, optimization techniques for web performance, and state management.
-
----
 
 ## 🛠️ Tech Stack & Ecosystem
 
@@ -31,8 +31,6 @@ A passionate Frontend Developer and UI Engineer focused on crafting visually stu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
----
-
 ## 📈 GitHub Metrics
 
 <p align="left">
@@ -40,12 +38,9 @@ A passionate Frontend Developer and UI Engineer focused on crafting visually stu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAdekunle&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180px" />
 </p>
 
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leethub&logoColor=white)](https://github.com/)
 
----
 *“Simplicity is the ultimate sophistication.”*
