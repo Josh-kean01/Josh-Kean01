@@ -28,10 +28,10 @@ A passionate Frontend Developer and UI Engineer focused on crafting visually stu
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JoshuaAdekunle&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Josh-Kean01&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" height="180px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAdekunle&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Kean01&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180px" />
     </td>
   </tr>
 </table>
