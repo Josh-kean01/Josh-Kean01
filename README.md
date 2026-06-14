@@ -25,13 +25,13 @@ A passionate Frontend Developer and UI Engineer focused on crafting visually stu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<table border="0">
+<table border="0" cellpadding="0" style="border: none; outline: none;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Josh-Kean01&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" height="180px" />
+    <td height="180px">
+      <img src="https://github-readme-stats.vercel.app/api?username=Josh-Kean01&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" height="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Kean01&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180px" />
+    <td height="180px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Kean01&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="100%" />
     </td>
   </tr>
 </table>
